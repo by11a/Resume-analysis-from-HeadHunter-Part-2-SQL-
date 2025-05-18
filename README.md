@@ -60,6 +60,10 @@
 
 Визуализации и подробные аналитические отчёты доступны в папке `charts/` и в ноутбуке проекта.
 
+## Ссылка на графики
+
+[Графики](https://drive.google.com/drive/folders/1HzWH_Bj_kVV9W9O7dqmc1Cw_Kp0eZfcS?usp=drive_link)
+
 ---
 
 **Автор:** [by11a]  
